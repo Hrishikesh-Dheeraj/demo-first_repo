@@ -1,4 +1,4 @@
 # demo-first_repo
-My first repository.
+My first git repository.
 <br>
-Author - Hrishikesh
+Author - Hrishikesh Dheeraj
